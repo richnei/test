@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.log
+*.pot
+*.mo
+
+# Diretório do ambiente virtual
+venv/
+env/
+ENV/
+.venv/
